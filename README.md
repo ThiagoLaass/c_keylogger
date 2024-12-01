@@ -50,7 +50,7 @@ Follow the instructions below to set up and run the keyloggers.
 
 Alternatively, compile and run in a single step:
 ```bash
-gcc -o keylogger main.c keylogger.c -luser32 && .\keylogger.exe
+gcc -o keylogger main.c keylogger.c -luser32; .\keylogger.exe
 ```
 
 ### Accessing the Logs
