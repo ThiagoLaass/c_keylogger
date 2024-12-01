@@ -82,6 +82,6 @@ gcc -o keylogger main.c keylogger.c -luser32 && .\keylogger.exe
 
 ---
 
-> **Disclaimer**: This software is intended for educational purposes only. The authors are not responsible for any misuse of the code. Always ensure you have proper authorization when running keyloggers.
+> **Disclaimer**: This software is intended for educational purposes only. The author is not responsible for any misuse of the code. Always ensure you have proper authorization when running keyloggers.
 
 #### This project is licensed under The MIT License
