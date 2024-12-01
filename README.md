@@ -22,7 +22,7 @@ Follow the instructions below to set up and run the keyloggers.
 
 ## Installation Requirements
 
-- **Compiler**: [MinGW](https://www.mingw-w64.org/), a C/C++ compiler for Windows.
+- **Compiler**: [MinGW](https://www.mingw-w64.org/), a C/C++ compiler.
   - Install using Chocolatey:  
     ```bash
     choco install mingw
